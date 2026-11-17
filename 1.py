@@ -14,8 +14,12 @@ def short_video(type):
         print('中视频')
 
 
-def  have_dinner():
+def have_dinner():
+    print('修复约饭功能bug‘)
     print('约饭功能开发79%')
 
 print('修复bug功能')
 print('hello work')
+
+def username():
+    print('用户登录功能')
