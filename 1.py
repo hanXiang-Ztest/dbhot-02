@@ -1,4 +1,6 @@
 
+
+print('开发完成')
 def store_mall():
     print('商城功能')
 
