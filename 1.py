@@ -13,11 +13,13 @@ def short_video(type):
     else:
         print('中视频')
 
-
-
 def have_dinner():
     print('修复约饭功能bug‘)
     print('约饭功能开发完成100%')
+
+
+def group_chat():
+    print(群聊功能开发10%')
 
 
 print('修复bug功能')
